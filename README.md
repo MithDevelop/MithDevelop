@@ -1,6 +1,4 @@
-# Привет 
-Меня зовут Дмитрий, мне 19 <br>
-и я frontend разработчик, настоящие время <br>
-ознакомлен с базой и котов продолжать изучение <br>
-с дальнейшим переходом на fullstack <br>
-буду рад пройти этот путь в месте свами.
+# Hi,
+My name is Dmitry, I’m 19 years old, and I’m a front-end developer. <br> 
+I’m currently familiar with the basics and continue learning with the goal of moving into full-stack development. <br>
+I’d be happy to go through this journey together with you. <br>
