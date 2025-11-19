@@ -12,5 +12,5 @@ I’d be happy to go through this journey together with you. <br>
 </div>
 <a href="https://github.com/MithDevelop">
     <br>
-    <img src="https://komarev.com/ghpvc/?username=Guest" />
+    <img src="https://komarev.com/ghpvc/?username=MithDevelop" />
 </a>
