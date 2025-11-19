@@ -7,6 +7,10 @@ I’d be happy to go through this journey together with you. <br>
 <div>
    </a>
     <a href="https://t.me/+sQaRrtosLMowOTli">
-        <img src="https://github.com/user-attachments/assets/019c7fe5-6bd4-4a41-a9d7-a1217bdc394d" />
+        <img src="https://img.shields.io/badge/Mith-7289DA?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
 </div>
+<a href="https://github.com/Mitsab">
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=Guest" />
+</a>
